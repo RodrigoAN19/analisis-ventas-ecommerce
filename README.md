@@ -18,6 +18,11 @@ Dataset: Olist E-Commerce (99,441 pedidos | 112,650 items).
 - **cama_mesa_banho** es la categoría más vendida con 11,115 unidades
 - Las ventas crecieron **+7,000% entre Oct 2016 y Oct 2017**
 - **Tarjeta de crédito** representa el método de pago dominante
+## 📥 Cómo reproducir el análisis
+1. Descarga el dataset desde [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+2. Coloca los archivos CSV en una carpeta local
+3. Abre el notebook en Google Colab y actualiza la ruta de los archivos
+4. Ejecuta las celdas en orden
 
 ## 📊 Visualizaciones
 
@@ -40,4 +45,5 @@ Dataset: Olist E-Commerce (99,441 pedidos | 112,650 items).
 ## 👤 Autor
 **Rodrigo Antonio Aniceto Nuñez**  
 Analista de Datos | Lima, Perú  
+
 [LinkedIn](https://linkedin.com/in/rodrigo-aniceto-nuñez)
